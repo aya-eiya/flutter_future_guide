@@ -1,6 +1,7 @@
-# future_guide
+# Terratailの回答用
 
-A new Flutter project.
+[flutter(dart) + Firestoreでのprintについて](https://teratail.com/questions/311903)
+
 
 ## Getting Started
 
